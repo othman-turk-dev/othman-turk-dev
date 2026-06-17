@@ -2,16 +2,16 @@
 
 ## Backend Developer | ASP.NET Core & .NET
 
-I am a backend developer focused on building scalable and maintainable applications using the .NET ecosystem. I enjoy software architecture, database design, problem solving, and continuously improving my software engineering skills.
+I am a backend developer focused on building scalable and maintainable applications using the .NET ecosystem. I enjoy software architecture, database design, problem solving, and building high-quality backend applications while continuously improving my software engineering skills.
 
-Technical Skills
+## Technical Skills
 
-Programming Languages
+### Programming Languages
 
 - C# (Primary Language)
 - C++ (Foundation & Academic Projects)
 
-Backend Development
+### Backend Development
 
 - .NET 8
 - ASP.NET Core Web API
@@ -19,7 +19,7 @@ Backend Development
 - Entity Framework Core (EF Core)
 - ADO.NET
 
-Database Technologies
+### Database Technologies
 
 - SQL Server
 - Database Design
@@ -27,25 +27,25 @@ Database Technologies
 - Query Optimization
 - Stored Procedures
 
-Software Engineering
+### Software Engineering
 
 - Object-Oriented Programming (OOP)
 - SOLID Principles
 - 3-Tier Architecture
 
-Algorithms & Problem Solving
+### Algorithms & Problem Solving
 
 - Data Structures
 - Algorithms
 - Problem Solving
 
-Tools & Technologies
+### Tools & Technologies
 
 - Visual Studio
 - Git / GitHub
 - Swagger / OpenAPI
 
-Current Focus
+### Current Focus
 
 - Advanced ASP.NET Core
 - Entity Framework Core Performance
@@ -53,7 +53,7 @@ Current Focus
 - Database Optimization
 - Building Production-Ready APIs
 
-Featured Projects
+### Featured Projects
 
 My repositories include practical implementations of:
 
@@ -63,6 +63,6 @@ My repositories include practical implementations of:
 - SQL Server Projects
 - Data Structures & Algorithms
 
-Connect With Me
+## Connect With Me
 
-- GitHub: [My GitHub Profile](https://github.com/othman-turk-dev)
+- GitHub: [github.com/othman-turk-dev](https://github.com/othman-turk-dev)
