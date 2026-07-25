@@ -91,4 +91,5 @@ I enjoy transforming ideas into real applications, with a strong interest in sof
 
 # 📫 Connect With Me
 
+- Linkedin: https://www.linkedin.com/in/othman-turk-dev
 - GitHub: https://github.com/othman-turk-dev
