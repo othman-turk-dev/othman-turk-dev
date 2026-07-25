@@ -1,68 +1,94 @@
 # Hi, I'm Othman 👋
 
-## Backend Developer | ASP.NET Core & .NET
+## Backend Developer | .NET & Software Engineering
 
-I am a backend developer focused on building scalable and maintainable applications using the .NET ecosystem. I enjoy software architecture, database design, problem solving, and building high-quality backend applications while continuously improving my software engineering skills.
+I'm a backend developer passionate about designing clean, maintainable, and scalable software using the .NET ecosystem.
 
-## Technical Skills
+I enjoy transforming ideas into real applications, with a strong interest in software architecture, database design, RESTful APIs, algorithms, and developer tools. Most of my repositories are practical projects built to deepen my understanding of software engineering concepts through hands-on implementation.
 
-### Programming Languages
+---
 
-- C# (Primary Language)
-- C++ (Foundation & Academic Projects)
+# 💻 Tech Stack
+
+### Languages
+
+- C#
+- C++
+- SQL (T-SQL)
 
 ### Backend Development
 
-- .NET 8
 - ASP.NET Core Web API
-- JWT Authentication & Authorization
-- Entity Framework Core (EF Core)
+- .NET
+- Entity Framework Core
 - ADO.NET
+- RESTful API
+- JWT Authentication & Authorization
 
-### Database Technologies
+### Database
 
 - SQL Server
 - Database Design
-- T-SQL
-- Query Optimization
 - Stored Procedures
+- Query Optimization
 
 ### Software Engineering
 
 - Object-Oriented Programming (OOP)
 - SOLID Principles
+- Design Patterns
 - 3-Tier Architecture
+- Clean Architecture
 
-### Algorithms & Problem Solving
+### Data Structures & Algorithms
 
-- Data Structures
-- Algorithms
-- Problem Solving
+- AVL Tree
+- Red-Black Tree
+- Binary Search Tree
+- Hash Tables
+- Graphs
+- Searching & Sorting Algorithms
 
-### Tools & Technologies
+### Development Tools
 
 - Visual Studio
-- Git / GitHub
+- Git & GitHub
 - Swagger / OpenAPI
+- Postman
 
-### Current Focus
+---
+
+# 🚀 Featured Projects
+
+- 🏠 University Housing Management System
+- 🚗 Driving & Vehicle License Department System
+- ⚙ CRUD Code Generator
+- 📦 Event-Driven Programming Examples
+- 🌳 AVL Tree Autocomplete Engine
+- 📖 PDF Text-to-Speech Reader
+
+---
+
+# 📚 Currently Learning
 
 - Advanced ASP.NET Core
-- Entity Framework Core Performance
 - Software Architecture
-- Database Optimization
-- Building Production-Ready APIs
+- Design Patterns
+- System Design
+- Performance Optimization
+- Scalable Backend Development
 
-### Featured Projects
+---
 
-My repositories include practical implementations of:
+# 🎯 Goals
 
-- RESTful Web APIs
-- Authentication & Authorization Systems (JWT)
-- EF Core Applications
-- SQL Server Projects
-- Data Structures & Algorithms
+- Build production-ready backend applications.
+- Improve software architecture and system design skills.
+- Contribute to open-source projects.
+- Continuously learn modern .NET technologies.
 
-## Connect With Me
+---
 
-- GitHub: [github.com/othman-turk-dev](https://github.com/othman-turk-dev)
+# 📫 Connect With Me
+
+- GitHub: https://github.com/othman-turk-dev
